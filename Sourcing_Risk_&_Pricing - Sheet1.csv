@@ -1,0 +1,5 @@
+Primary MPN,LCSC Part No.,Lifecycle Status ,Alt Part Number (Mouser/DigiKey),Unit Price (1 unit),Unit Price (100 unit),Unit Price (1000 Unit)
+ESP32-S2-WROOM-1-N16R8,C2913202,Active,ESP32-S3-WROOM-1-N8R8,$3.85,$3.10,$2.65
+W5500,C31905,Active,W5500,$2.10,$1.65,$1.35
+CP2102N-A02-GQFN24,C208138,Active,CH340G,$1.45,$1.10,$0.85
+MP2307DN-LF-Z,C14256,Active,LM2596S-5.0,$0.65,$0.42,$0.30
